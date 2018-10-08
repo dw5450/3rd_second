@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TCPClient", "TCPClient.vcxproj", "{00ED2AF5-70AF-4A84-9E43-3BEE76B8B9B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00ED2AF5-70AF-4A84-9E43-3BEE76B8B9B3}.Debug|x64.ActiveCfg = Debug|x64
+		{00ED2AF5-70AF-4A84-9E43-3BEE76B8B9B3}.Debug|x64.Build.0 = Debug|x64
+		{00ED2AF5-70AF-4A84-9E43-3BEE76B8B9B3}.Debug|x86.ActiveCfg = Debug|Win32
+		{00ED2AF5-70AF-4A84-9E43-3BEE76B8B9B3}.Debug|x86.Build.0 = Debug|Win32
+		{00ED2AF5-70AF-4A84-9E43-3BEE76B8B9B3}.Release|x64.ActiveCfg = Release|x64
+		{00ED2AF5-70AF-4A84-9E43-3BEE76B8B9B3}.Release|x64.Build.0 = Release|x64
+		{00ED2AF5-70AF-4A84-9E43-3BEE76B8B9B3}.Release|x86.ActiveCfg = Release|Win32
+		{00ED2AF5-70AF-4A84-9E43-3BEE76B8B9B3}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F88BFE6-7981-4182-9ABA-2CA28499F74B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+WSASetLastError(int)
+
+int 자리에 에러를 셋해둘 수 있음

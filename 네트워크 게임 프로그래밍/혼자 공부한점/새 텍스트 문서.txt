@@ -1,0 +1,1 @@
+blocking socket -> 조건이 만족할 때 까지 대기

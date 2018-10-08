@@ -1,0 +1,4 @@
+﻿  MultithreadTCPServer.cpp
+c:\users\원동욱\desktop\study\3rd_second\네트워크 게임 프로그래밍\homework\10.4\2\multithreadtcpserver\multithreadtcpserver.cpp(115): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+  MultithreadTCPServer.vcxproj -> C:\Users\원동욱\Desktop\study\3rd_second\네트워크 게임 프로그래밍\HomeWork\10.4\2\MultithreadTCPServer\Debug\MultithreadTCPServer.exe
