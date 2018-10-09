@@ -64,7 +64,7 @@ int main(int argc, char *argv[])
 	while(1){
 		// 데이터 입력
 		printf("\n[보낼 데이터] ");
-		if(fgets(buf, BUFSIZE+1, stdin) == NULL)
+		if((buf, BUFSIZE+1, stdin) == NULL)
 			break;
 
 		// '\n' 문자 제거
