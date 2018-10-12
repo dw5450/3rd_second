@@ -1,0 +1,4 @@
+﻿  BroadcastSender.cpp
+c:\users\원동욱\desktop\study\3rd_second\네트워크 게임 프로그래밍\source\chapter07\broadcastsender\broadcastsender.cpp(60): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\winsock2.h(1830): note: 'inet_addr' 선언을 참조하십시오.
+  BroadcastSender.vcxproj -> C:\Users\원동욱\Desktop\study\3rd_second\네트워크 게임 프로그래밍\Source\Chapter07\BroadcastSender\Debug\BroadcastSender.exe
