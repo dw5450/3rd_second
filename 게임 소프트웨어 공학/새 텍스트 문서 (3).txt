@@ -13,6 +13,109 @@ vim  텍스트 제작
 	조합 가능
 
 
-git init		//깃 시작
+깃은 헤더 위치 래퍼런스로만 들어감
 
-git status 	// 깃의 상태	
+
+git init		//깃 시작, 초기화
+
+git status 	// 깃의 상태
+
+git add 		// 추가, 스테이지에 올림
+
+git commit 	// 버전업 -am 이름 < 다 저장
+
+git log 		//커밋 리스트 확인
+
+
+
+Local repository 관련 구조
+
+	working directory 작업하고 있는 공간
+
+		<add>
+	
+	staging Area  		// 올릴 준비
+
+		<commit>
+
+	Local Repository	 	//반영하는 단계	
+
+	
+
+특정 버전으로 돌아가기
+
+	commitID (로그 앞 6자리)
+	
+	git reset < working directory 관리  < head 만 옮김
+
+		-- hard commitID				//워킹 디렉토리, 스테이징 에어리어도
+
+		--mixed commitID				//워킹 디렉토리만
+		
+		--soft commitID				//모두 남길래
+
+
+
+branch
+
+	원래 작업물에 영향을 안가게 하기 위해서?
+	
+	(지역별로 다른 서비스?)
+
+	FlagShip model
+
+				고가(변태)
+
+	모델 			중가
+
+				저가
+	
+
+	많은 부분은 재활용 되지만 일부 코드를 수정해야하는경우	
+	
+	버그를 수정하기 위해 따로 코드를 나눌때도 적절함	
+
+	생성 시점 까진 동일
+
+	git branch  //  현재 브렌치 상황을 보여줌
+
+	git branch "name" // name의 브렌치 생성
+
+	git branch - d "branchname" // 삭제
+			
+
+	git checkout name //name 브렌치로 이동		
+
+	브렌치끼리는 권한이 같다.
+
+
+헤드 : 브렌치의 최신 위치를 가리키는 것 // 안정한 버전을 기준으로 해야함 
+
+	브렌치 마다 하나씩 가짐
+
+ 
+	이전 커밋이 parent로 (포인팅)
+
+
+	이전 로그 히스터리르 보여줌
+
+	test의 헤드도 가리킨다...? 커밋할때 변경됨
+
+	조금식 변경
+
+	commit id는 변경
+
+	미아가 되버림 브렌치 이전으로 돌려버리면
+
+	
+	git merge "branch name"  커밋을 합쳐버림
+
+	--- (브런치 위치) -- (합쳐지는 브런치 위치)- (합친 위치)
+
+	
+	다른 것들은 합쳐서 들어오게 됨. 하나만 지우면 됨
+	
+
+	브런치 위치 부터 가져와서 그 뒤부터 붙힘
+	
+servertravel/Game/Maps/Arena01

@@ -13,6 +13,7 @@ DWORD WINAPI MyThread(LPVOID arg)
 		printf("Running MyThread() %d : %d, %d, %d\n",
 			GetCurrentThreadId(), pt->x, pt->y, pt->z);
 		Sleep(1000);
+
 	}
 	return 0;
 }

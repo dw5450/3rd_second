@@ -6,7 +6,22 @@
 #define SERVERIP   "127.0.0.1"
 #define SERVERPORT 9000
 #define BUFSIZE    50
+enum OBJECT_TYPE
+{
+	NULLOBJ,
+	PLAYER,
+	BOSS,
+	BULLET
+};
+struct CommunicationData {
+	OBJECT_TYPE Obj_Type;
+	POINT		Obj_Pos;
+	POINT		Obj_Pos_In
+};
 
+bool Keybuffer[256];
+u_int CurObjectNum;
+CommunicationData R
 // 소켓 함수 오류 출력 후 종료
 void err_quit(char *msg)
 {

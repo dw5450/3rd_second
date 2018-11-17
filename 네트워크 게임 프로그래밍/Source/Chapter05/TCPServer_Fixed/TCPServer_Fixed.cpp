@@ -6,6 +6,20 @@
 #define SERVERPORT 9000
 #define BUFSIZE    50
 
+
+class parents
+{
+private: 
+	int a = 1;
+};
+
+
+class child : parents
+{
+public:
+	int b = 2;
+};
+
 // 소켓 함수 오류 출력 후 종료
 void err_quit(char *msg)
 {
@@ -83,7 +97,7 @@ int main(int argc, char *argv[])
 	SOCKET client_sock;
 	SOCKADDR_IN clientaddr;
 	int addrlen;
-	char buf[BUFSIZE+1];
+	parents * p;
 
 	while(1){
 		// accept()
@@ -101,7 +115,7 @@ int main(int argc, char *argv[])
 		// 클라이언트와 데이터 통신
 		while(1){ 
 			// 데이터 받기
-			retval = recvn(client_sock, buf, BUFSIZE, 0);
+			retval = recvn(client_sock, (char * )p, BUFSIZE, 0);
 			if(retval == SOCKET_ERROR){
 				err_display("recv()");
 				break;
@@ -110,9 +124,10 @@ int main(int argc, char *argv[])
 				break;
 
 			// 받은 데이터 출력
-			buf[retval] = '\0';
-			printf("[TCP/%s:%d] %s\n", inet_ntoa(clientaddr.sin_addr),
-				ntohs(clientaddr.sin_port), buf);
+			child * tempchild = (child*)p;
+
+			printf("[TCP/%s:%d] %d\n", inet_ntoa(clientaddr.sin_addr),
+				ntohs(clientaddr.sin_port), tempchild->b);
 		}
 
 		// closesocket()

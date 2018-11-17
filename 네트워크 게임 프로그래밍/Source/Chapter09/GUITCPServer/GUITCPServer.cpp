@@ -2,6 +2,7 @@
 #include <winsock2.h>
 #include <stdlib.h>
 #include <stdio.h>
+#include "resource.h"
 
 #define SERVERPORT 9000
 #define BUFSIZE    512

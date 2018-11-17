@@ -1,7 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca48e9c1-3cb2-4d58-9794-84a3f44e3f36" name="Default Changelist" comment="" />
+    <list default="true" id="ca48e9c1-3cb2-4d58-9794-84a3f44e3f36" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../게임 소프트웨어 공학/새 텍스트 문서 (3).txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../게임 소프트웨어 공학/새 텍스트 문서 (3).txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/.vs/TCPClient_FixedVariable/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/.vs/TCPClient_FixedVariable/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/.vs/TCPClient_FixedVariable/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/.vs/TCPClient_FixedVariable/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClien.788D4FF7.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClien.788D4FF7.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClien.788D4FF7.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClien.788D4FF7.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClien.788D4FF7.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClien.788D4FF7.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClien.788D4FF7.tlog/TCPClient_FixedVariable.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClien.788D4FF7.tlog/TCPClient_FixedVariable.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClien.788D4FF7.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClien.788D4FF7.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClien.788D4FF7.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClien.788D4FF7.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClien.788D4FF7.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClien.788D4FF7.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClient_FixedVariable.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClient_FixedVariable.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClient_FixedVariable.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClient_FixedVariable.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClient_FixedVariable.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClient_FixedVariable.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClient_FixedVariable.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClient_FixedVariable.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClient_FixedVariable.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/TCPClient_FixedVariable.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/vc141.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/vc141.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/vc141.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/Debug/vc141.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/TCPClient_FixedVariable.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/HW_5_client/TCPClient_FixedVariable.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/.vs/MultithreadTCPServer/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/.vs/MultithreadTCPServer/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/.vs/MultithreadTCPServer/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/.vs/MultithreadTCPServer/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/Multithr.78DB1B8E.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/Multithr.78DB1B8E.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/MultithreadTCPServer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/MultithreadTCPServer.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/MultithreadTCPServer.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/MultithreadTCPServer.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/MultithreadTCPServer.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/MultithreadTCPServer.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/MultithreadTCPServer.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/MultithreadTCPServer.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/MultithreadTCPServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/MultithreadTCPServer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/vc141.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/vc141.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/vc141.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/Debug/vc141.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/MultithreadTCPServer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/HomeWork/10.4/3/MultithreadTCPServer/MultithreadTCPServer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter01/Server/Debug/Server.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter01/Server/Debug/Server.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter01/Server/Server.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter01/Server/Server.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter02/InitWinsock/.vs/InitWinsock/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter02/InitWinsock/.vs/InitWinsock/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter02/InitWinsock/.vs/InitWinsock/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter02/InitWinsock/.vs/InitWinsock/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter04/TCPServer/.vs/TCPServer/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter04/TCPServer/.vs/TCPServer/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter04/TCPServer/.vs/TCPServer/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter04/TCPServer/.vs/TCPServer/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPClient_Fixed/.vs/TCPClient_Fixed/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPClient_Fixed/.vs/TCPClient_Fixed/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPClient_FixedVariable/.vs/TCPClient_FixedVariable/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPClient_FixedVariable/.vs/TCPClient_FixedVariable/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPClient_FixedVariable/.vs/TCPClient_FixedVariable/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPClient_FixedVariable/.vs/TCPClient_FixedVariable/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/.vs/TCPServer_Fixed/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/.vs/TCPServer_Fixed/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/.vs/TCPServer_Fixed/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/.vs/TCPServer_Fixed/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.tlog/CL.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.tlog/CL.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.tlog/TCPServer_Fixed.lastbuildstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.tlog/TCPServer_Fixed.lastbuildstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.tlog/link.command.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.tlog/link.command.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/TCPServer_Fixed.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/vc141.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/vc141.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/vc141.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/Debug/vc141.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/TCPServer_Fixed.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_Fixed/TCPServer_Fixed.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_FixedVariable/.vs/TCPServer_FixedVariable/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_FixedVariable/.vs/TCPServer_FixedVariable/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_FixedVariable/.vs/TCPServer_FixedVariable/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_FixedVariable/.vs/TCPServer_FixedVariable/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_FixedVariable/TCPServer_FixedVariable.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter05/TCPServer_FixedVariable/TCPServer_FixedVariable.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExEvent/.vs/ExEvent/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExEvent/.vs/ExEvent/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExEvent/.vs/ExEvent/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExEvent/.vs/ExEvent/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/.vs/ExThread1/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/.vs/ExThread1/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/.vs/ExThread1/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/.vs/ExThread1/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.ilk" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.ilk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.tlog/CL.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.tlog/CL.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.tlog/CL.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.tlog/CL.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.tlog/link.read.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.tlog/link.read.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.tlog/link.write.1.tlog" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/ExThread1.tlog/link.write.1.tlog" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/vc141.idb" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/vc141.idb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/vc141.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/Debug/vc141.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/ExThread1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter06/ExThread1/ExThread1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/BroadcastReceiver/.vs/BroadcastReceiver/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/BroadcastReceiver/.vs/BroadcastReceiver/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/BroadcastReceiver/.vs/BroadcastReceiver/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/BroadcastReceiver/.vs/BroadcastReceiver/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/BroadcastSender/.vs/BroadcastSender/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/BroadcastSender/.vs/BroadcastSender/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/BroadcastSender/.vs/BroadcastSender/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/BroadcastSender/.vs/BroadcastSender/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/BroadcastSender/BroadcastSender.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/BroadcastSender/BroadcastSender.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/UDPClient/.vs/UDPClient/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/UDPClient/.vs/UDPClient/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/UDPClient/.vs/UDPClient/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/UDPClient/.vs/UDPClient/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/UDPServer/.vs/UDPServer/v15/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/UDPServer/.vs/UDPServer/v15/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/UDPServer/.vs/UDPServer/v15/Browse.VC.db" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/UDPServer/.vs/UDPServer/v15/Browse.VC.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/UDPServer/UDPServer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../네트워크 게임 프로그래밍/Source/Chapter07/UDPServer/UDPServer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/인공지능_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/인공지능_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +130,73 @@
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
     </session>
+    <session id="869796652">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="127">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/keras/engine/training_utils.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2413">
+              <caret line="137" selection-start-line="137" selection-end-line="137" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/keras/engine/training.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14459">
+              <caret line="788" selection-start-line="788" selection-end-line="788" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/io/parsers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="31616">
+              <caret line="1707" selection-start-line="1707" selection-end-line="1707" />
             </state>
           </provider>
         </entry>
@@ -73,9 +220,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="46" />
-    <option name="y" value="97" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="150" />
+    <option name="y" value="90" />
     <option name="width" value="1750" />
     <option name="height" value="985" />
   </component>
@@ -84,20 +231,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="인공지능_test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="인공지능_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -156,14 +290,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="78" width="1400" height="788" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.2247191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29969418" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29816514" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -202,8 +336,29 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="127">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/keras/engine/training_utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2413">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/keras/engine/training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14459">
+          <caret line="788" selection-start-line="788" selection-end-line="788" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="31616">
+          <caret line="1707" selection-start-line="1707" selection-end-line="1707" />
         </state>
       </provider>
     </entry>

@@ -2,7 +2,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 #include <winsock2.h>
-#include <stdlib.h>
+//#include <stdlib.h>
 #include <stdio.h>
 
 #define SERVERIP   "127.0.0.1"

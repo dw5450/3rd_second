@@ -94,6 +94,7 @@ int main(int argc, char *argv[])
 			err_display("accept()");
 			break;
 		}
+		]
 
 		// 접속한 클라이언트 정보 출력
 		printf("\n[TCP 서버] 클라이언트 접속: IP 주소=%s, 포트 번호=%d\n",

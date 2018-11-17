@@ -6,6 +6,7 @@
 #include <string>
 #include <iostream>
 
+
 #define SERVERPORT 9000
 #define BUFSIZE    1024
 
@@ -103,7 +104,7 @@ DWORD WINAPI ProcessClient(LPVOID arg)
 
 	// 클라이언트 정보 얻기
 	addrlen = sizeof(clientaddr);
-	getpeername(client_sock, (SOCKADDR *)&clientaddr, &addrlen);		// getpeename socker desc를 으용하여 socetaddr 정보를 가져옴
+	//getpeername(client_sock, (SOCKADDR *)&clientaddr, &addrlen);		// getpeename socker desc를 으용하여 socetaddr 정보를 가져옴
 
 	while (1) {
 		FILE *fp = NULL;
