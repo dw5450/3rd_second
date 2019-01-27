@@ -1,0 +1,46 @@
+WSaEventSelect 모델
+
+	WSAEventSelect() 함수가 핵심적이 ㄴ역할을 함
+
+		소켓 함수 1:1 대응 이벤트 객체 생성
+
+
+	동작 원리
+	
+		소켓과 이벤트 객체를 fairing 
+
+
+	WSAEventSelect 모델의 필요 기능과 관련 함수
+
+	이벤트 객체 생성과 제거
+	
+	WSACreateEvent(), WSACloseEvent()
+	
+	소켓과 이벤트 객체 짝짓기
+
+	WSAEventSelect()
+
+	이벤트 객체의 신호 상태 감지하기
+
+	WSAWaitForMultipleEvents()
+
+	구체적인 네크워크 이벤트 알아내기 -> 조건이 만족된 것들을 확인하기
+
+	WSAEnumNetworkEvents()
+
+
+
+	WSAEventSelect 모델을 이용한 소켓 입출력 절차
+
+	소케을 생성할 때 마다 WSACreateEvent() 함수를 이용해 이벤트 객체를 생성
+
+	WSAEventSelect() 함수를 이용해 소켓과 이벤트 객체를 짝지음과 동시에 처리할 네트워크 이벤트를 등록
+
+	WSAWaitForMultipleEvents() 함수를 호출해 이벤트 객체가 신호 상태가 되기를 기다림
+	
+	등록한 네트워크 이벤트가 발생하면 해당 소켓과 연관된 이벤트 객체가 신호 상태가 됨
+
+	WSAEnumNetworkEvents() 함수를 호출해 발생한 네트워크 이벤트를 알아 내고 적절한 소켓 함수를 호출해 처리 
+
+
+

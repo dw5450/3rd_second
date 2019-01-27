@@ -1,0 +1,20 @@
+/.vs
+/simplegame/x64
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.log
+*.pch
+*.idb
+*.tlog
+*.lastbuildstate
+*.suo
+*.db
+
+git push만 하면 됨 넣기용
+
+git pull  당겨오기
+
+
+git add . 해당 지점 있는 파을 다 add 함
